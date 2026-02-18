@@ -1,1 +1,0 @@
-The primary objective is to design a Smart Car system that can be remotely controlled and monitored through both a web interface and custom dashboard. The system integrates multiple sensors and actuators to create an intelligent vehicle 
